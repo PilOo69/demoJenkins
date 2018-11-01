@@ -2,7 +2,7 @@
 FROM node:7-onbuild
 
 # set maintainer
-LABEL maintainer "miammm"
+LABEL maintainer "demo"
 
 # set a health check
 HEALTHCHECK --interval=5s \
